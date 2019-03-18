@@ -6,9 +6,3 @@ let customer = new Customer;
 let alarm = new Alarm;
 let hall = new HallOfShame();
 
-
-console.log(hall);
-// console.log(alarm);
-// console.log(hall);
-
-// hall.map(result => console.log(result));

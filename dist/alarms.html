@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>CUSTOMERS LIST</title>
+        <title>ALARMS TIMELINE</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style.css">
@@ -13,25 +13,25 @@
         <!--NAVIGATION BAR-->
         <nav id='cssmenu'>
             <ul>
-                <li class='active'><a href='index.html'>CUSTOMERS LIST</a></li>
-                <li><a href='alarms.html'>ALARMS TIMELINE</a></li>
+                <li><a href='index.html'>CUSTOMERS LIST</a></li>
+                <li  class='active'><a href='alarms.html'>ALARMS TIMELINE</a></li>
                 <li><a href='hallofshame.html'>HALL OF SHAME</a></li>
             </ul>
-        </nav> 
+        </nav>
 
         <!--DATA TABLE-->
-        <h2>CUSTOMERS LIST</h2>
-        <table id="customer_table" border="1">
+        <!--  I have deleted all the dates except january 2019 where the alarms acctually happen -->
+        <h2>ALARMS TIMELINE</h2>
+        <table id="alarm_table" border="1">
             <thead>
-                <th>CUSTOMER ID</th>
-                <th>CUSTOMER<br>NAME</th>
-                <th>DEVICE<br>NAME</th>
-                <th>DEVICE<br>COUNT</th>
+                <th>DATE</th>
+                <th>ALARM TYPE</th>
+                <th>ALARM<br>COUNT</th>
             </thead>
 
         </table>
 
-        <canvas id="chartOne" width="400" height="400"></canvas>
+        <canvas id="chartTwo" width="500" height="400"></canvas>
 
         <script src="bundle.js" ></script>
     </body>
