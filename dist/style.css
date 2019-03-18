@@ -1,15 +1,19 @@
-.customerId,
-.customerName {
+.column1,
+.column2 {
     padding: .2em 1em;  
 }
-.number,
-.deviceName {
+.column3,
+.column4 {
     text-align: center;
 }
 h2 {
     background: orange;
     color: white;
     padding: 1em;
+}
+#chartThree {
+  width: 450px;
+  height: auto;
 }
 
 /* navigation style */

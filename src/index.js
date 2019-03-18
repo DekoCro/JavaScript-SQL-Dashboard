@@ -4,5 +4,5 @@ import Alarm from "./Alarm";
 
 let customer = new Customer;
 let alarm = new Alarm;
-let hall = new HallOfShame();
+let hall = new HallOfShame;
 
