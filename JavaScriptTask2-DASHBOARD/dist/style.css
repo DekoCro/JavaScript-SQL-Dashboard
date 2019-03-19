@@ -1,0 +1,104 @@
+  /* body {
+    background-color: #e8fffc;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg stroke='%23bfd1ff' stroke-width='0' %3E%3Crect fill='%23e4f5f3' x='-60' y='-60' width='110' height='240'/%3E%3C/g%3E%3C/svg%3E");
+  } */
+
+.column1,
+.column2 {
+    padding: .2em 1em; 
+}
+.column3,
+.column4 {
+    text-align: center;
+}
+h1 {
+    background: #8f3066;
+    color: white;
+    padding: .5em;
+    text-align: center;
+}
+
+.upperDashboard,
+.lowerDashboard {
+  display: flex;
+  justify-content: space-evenly;
+  width: 95vw;
+}
+
+.top-box {
+  width: 60%;
+}
+.low-box {
+  width: 40%;
+  border: 1px solid #c05166;
+}
+#cahrtTwo {
+  width: 100%;
+}
+#chartOne,
+#chatrThree {
+  width: 50%;
+}
+.customer_table {
+  width: 20%;
+  font-family: 'Roboto', sans-serif;
+}
+th {
+  background-color: #c05166;
+  color: white;
+}
+td:nth-child(odd) {
+  background-color: #e88666;
+  color: white;
+}
+td:nth-child(even) {
+  background-color: #fcb76f;
+  color: white;
+}
+.header {
+  height: 3em;
+  text-align: center;
+  color: white;
+  background-color: #c05166;
+  line-height: 3em;
+  font-family: 'Roboto', sans-serif;
+}
+@media all and (max-width: 480px) {
+  .upperDashboard,
+  .lowerDashboard {
+  flex-direction: column;
+  width: 200vw;
+  }
+  #chartOne,
+  #cahrtTwo,
+  #chatrThree {
+    width: 200%;
+    height: 200%;
+  }
+  #customer_table {
+    width: 100%;
+  }
+  .box {
+    width: 200%;
+  }
+}
+
+
+@media all and (min-width: 480px) and (max-width: 768px) {
+  .upperDashboard,
+  .lowerDashboard {
+  flex-direction: column;
+  width: 100vw;
+  }
+  #chartOne,
+  #cahrtTwo,
+  #chatrThree {
+    width: 100%;
+  }
+  #customer_table {
+    width: 100%;
+  }
+  .box {
+    width: 100%;
+  }
+}
