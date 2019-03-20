@@ -1,0 +1,62 @@
+[
+  {
+    "SerialNumber" : "0003158675",
+    "AlarmsCount" : 22,
+    "CustomerName" : "NORFOLK POWER EQUIPMENT INC",
+    "CustomerId" : "6791C4A8-CB02-4ECB-AA24-00000EEF9694"
+  },
+  {
+    "SerialNumber" : "0003086684",
+    "AlarmsCount" : 22,
+    "CustomerName" : "Lely-Consumables B.V.",
+    "CustomerId" : "AE7FBF3F-E864-4410-A335-00016884DBDE"
+  },
+  {
+    "SerialNumber" : "RD11IDULXX055907",
+    "AlarmsCount" : 27,
+    "CustomerName" : "VOF Van Schaijk",
+    "CustomerId" : "11F55EBE-22DE-4908-832B-0001C92D4049"
+  },
+  {
+    "SerialNumber" : "0003242315",
+    "AlarmsCount" : 24,
+    "CustomerName" : "Freund, Claus",
+    "CustomerId" : "565DE0CB-521B-4ECE-936F-0001E7793E9C"
+  },
+  {
+    "SerialNumber" : "0003232503",
+    "AlarmsCount" : 26,
+    "CustomerName" : "Dummermuth Urs",
+    "CustomerId" : "61684D95-5C1E-48A1-9933-00052561F3B5"
+  },
+  {
+    "SerialNumber" : "0003257078",
+    "AlarmsCount" : 26,
+    "CustomerName" : "VOF Hoegen",
+    "CustomerId" : "BC69D007-8441-477D-949F-0005A79FDFB8"
+  },
+  {
+    "SerialNumber" : "0003086683",
+    "AlarmsCount" : 32,
+    "CustomerName" : "GAEC DE KERYENNEC",
+    "CustomerId" : "4C85D5D4-3994-4FF5-877C-0006D86E5B60"
+  },
+  {
+    "SerialNumber" : "0003242316",
+    "AlarmsCount" : 21,
+    "CustomerName" : "Willi Bogner",
+    "CustomerId" : "0D527301-8082-4470-9B19-00071DFB64C6"
+  },
+  {
+    "SerialNumber" : "RD11IDULXX068696",
+    "AlarmsCount" : 25,
+    "CustomerName" : "Helmsview Dairy",
+    "CustomerId" : "3ED796C8-DE21-4182-A943-00083CEC9A31"
+  },
+  {
+    "SerialNumber" : "0003086679",
+    "AlarmsCount" : 22,
+    "CustomerName" : "CHEVALIER ROBERT",
+    "CustomerId" : "C0AFA2DF-7EA0-4C1D-8AB4-00087E9F7339"
+  }
+]

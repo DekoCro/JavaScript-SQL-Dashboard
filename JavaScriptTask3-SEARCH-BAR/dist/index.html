@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>DASHBOARD</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Roboto" rel="stylesheet">
+    </head>
+    <body>
+
+        <!--DATA TABLE-->
+        <header>
+            <h1>DASHBOARD</h1>
+            <input type="text" id="name_input" onkeyup="searchNames()" placeholder="Search for names..">
+            <h6 class="result"></h6>
+        </header>
+       
+        <section class="upperDashboard">
+            
+            <table id="customer_table" class="customer_table">
+                <thead>
+                    <th>Customer<br>name</th>
+                    <th>Devices</th>
+                </thead>
+            </table>
+
+            <div class="top-box">
+                    <div class="header">Number of alarms per day (JANUARY 2019)</div>
+                <canvas id="chartTwo"></canvas>
+            </div>
+        </section>
+        
+        <section class="lowerDashboard">
+            <div class="low-box">
+                <div class="header">All customers and the number of devices that they own</div>
+                <canvas id="chartOne"></canvas>
+            </div>
+            <div class="low-box">
+                <div class="header">Device with the highest number of alarms of each customer</div>
+                <canvas id="chartThree"></canvas>
+            </div>
+        </section>
+
+        <script src="bundle.js" ></script>
+        <script>
+            const searchNames = () => {
+                let input = document.querySelector("#name_input");
+                let filter = input.value.toUpperCase();
+                let table = document.querySelector("#customer_table");
+                let tr = table.getElementsByTagName("tr");
+            
+                for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                    if (td) {
+                        let txtValue = td.textContent || td.innerText;
+                        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                        } else {
+                        tr[i].style.display = "none";
+                        }
+                    } 
+                }
+            }
+        </script>
+    </body>
+</html>

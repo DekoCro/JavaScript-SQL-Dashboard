@@ -1,0 +1,1552 @@
+[
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/01\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/01\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/01\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/01\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/01\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/01\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/01\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/01\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/01\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/01\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/02\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/02\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/02\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/02\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/02\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/02\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/02\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/02\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/02\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/02\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/03\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/03\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/03\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/03\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/03\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/03\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/03\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/03\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/03\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/03\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/04\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/04\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/04\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/04\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/04\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/04\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/04\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/04\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/04\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/04\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/05\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/05\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/05\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/05\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/05\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/05\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/05\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/05\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/05\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/05\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/06\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/06\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/06\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/06\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/06\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/06\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/06\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/06\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/06\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/06\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/07\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/07\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/07\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/07\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/07\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/07\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/07\/19",
+    "AlarmsCount" : 7
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/07\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/07\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/07\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/08\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/08\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/08\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/08\/19",
+    "AlarmsCount" : 7
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/08\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/08\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/08\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/08\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/08\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/08\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/09\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/09\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/09\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/09\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/09\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/09\/19",
+    "AlarmsCount" : 7
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/09\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/09\/19",
+    "AlarmsCount" : 10
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/09\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/09\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/10\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/10\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/10\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/10\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/10\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/10\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/10\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/10\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/10\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/10\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/11\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/11\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/11\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/11\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/11\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/11\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/11\/19",
+    "AlarmsCount" : 7
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/11\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/11\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/11\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/12\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/12\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/12\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/12\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/12\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/12\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/12\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/12\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/12\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/12\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/13\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/13\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/13\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/13\/19",
+    "AlarmsCount" : 9
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/13\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/13\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/13\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/13\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/13\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/13\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/14\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/14\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/14\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/14\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/14\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/14\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/14\/19",
+    "AlarmsCount" : 10
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/14\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/14\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/14\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/15\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/15\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/15\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/15\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/15\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/15\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/15\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/15\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/15\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/15\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/16\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/16\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/16\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/16\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/16\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/16\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/16\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/16\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/16\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/16\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/17\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/17\/19",
+    "AlarmsCount" : 7
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/17\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/17\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/17\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/17\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/17\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/17\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/17\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/17\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/18\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/18\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/18\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/18\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/18\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/18\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/18\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/18\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/18\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/18\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/19\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/19\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/19\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/19\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/19\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/19\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/19\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/19\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/19\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/19\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/20\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/20\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/20\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/20\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/20\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/20\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/20\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/20\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/20\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/20\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/21\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/21\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/21\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/21\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/21\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/21\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/21\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/21\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/21\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/21\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/22\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/22\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/22\/19",
+    "AlarmsCount" : 7
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/22\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/22\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/22\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/22\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/22\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/22\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/22\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/23\/19",
+    "AlarmsCount" : 10
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/23\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/23\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/23\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/23\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/23\/19",
+    "AlarmsCount" : 7
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/23\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/23\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/23\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/23\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/24\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/24\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/24\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/24\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/24\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/24\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/24\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/24\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/24\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/24\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/25\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/25\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/25\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/25\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/25\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/25\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/25\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/25\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/25\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/25\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/26\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/26\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/26\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/26\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/26\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/26\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/26\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/26\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/26\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/26\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/27\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/27\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/27\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/27\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/27\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/27\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/27\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/27\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/27\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/27\/19",
+    "AlarmsCount" : 0
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/28\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/28\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/28\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/28\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/28\/19",
+    "AlarmsCount" : 1
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/28\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/28\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/28\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/28\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/28\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/29\/19",
+    "AlarmsCount" : 12
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/29\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/29\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/29\/19",
+    "AlarmsCount" : 9
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/29\/19",
+    "AlarmsCount" : 10
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/29\/19",
+    "AlarmsCount" : 10
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/29\/19",
+    "AlarmsCount" : 13
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/29\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/29\/19",
+    "AlarmsCount" : 12
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/29\/19",
+    "AlarmsCount" : 13
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/30\/19",
+    "AlarmsCount" : 2
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/30\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/30\/19",
+    "AlarmsCount" : 6
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/30\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/30\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/30\/19",
+    "AlarmsCount" : 3
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/30\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/30\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/30\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/30\/19",
+    "AlarmsCount" : 13
+  },
+  {
+    "AlarmType" : "<P1> sensor read out of bounds",
+    "Date" : "01\/31\/19",
+    "AlarmsCount" : 4
+  },
+  {
+    "AlarmType" : "Airpressure too low long time",
+    "Date" : "01\/31\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Cannot continue with cleaning because the robotarm cannot reach its desired position.",
+    "Date" : "01\/31\/19",
+    "AlarmsCount" : 9
+  },
+  {
+    "AlarmType" : "Hardware defect, pump <P1>",
+    "Date" : "01\/31\/19",
+    "AlarmsCount" : 9
+  },
+  {
+    "AlarmType" : "Hardware defect, valve or valveguard <P1>",
+    "Date" : "01\/31\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Power failure",
+    "Date" : "01\/31\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Reset of component <P1> detected.",
+    "Date" : "01\/31\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Time out shutdown component <P1>",
+    "Date" : "01\/31\/19",
+    "AlarmsCount" : 8
+  },
+  {
+    "AlarmType" : "Unable to calibrate the vacuum valve.",
+    "Date" : "01\/31\/19",
+    "AlarmsCount" : 5
+  },
+  {
+    "AlarmType" : "Water tank alarm (critical) <P1>",
+    "Date" : "01\/31\/19",
+    "AlarmsCount" : 8
+  }
+]
