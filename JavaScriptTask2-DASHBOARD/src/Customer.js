@@ -51,11 +51,6 @@ export default class Customer {
                             beginAtZero: true
                         }
                     }]
-                },
-                legend: {
-                    labels: {
-                        
-                    }
                 }
             }
         });
